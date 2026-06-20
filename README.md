@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Vikash Yadav </h1>
 <h3 align="center">Aspiring Software Developer | UI/UX Designer | AI Enthusiast</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 - 💻 Building real-world projects
 - 🎨 Interested in **UI/UX Design**
 - 🤝 Open to collaboration
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **your-vikashyadav8880001@gmail.com**
 
 ---
 
@@ -47,7 +47,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](linkedin.com/in/vikash-yadav-5887032a7)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://yourwebsite.com)
 
 ---
