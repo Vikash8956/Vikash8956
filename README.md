@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash Yadav </h1>
-<h3 align="center">Aspiring Software Developer | UI/UX Designer | AI Enthusiast</h3>
+<h3 align="center">AI & Machine Learning | Deep Learning | Large Language model | NLP | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Web+Developer;UI%2FUX+Designer;Always+Learning+New+Things" />
@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Web Development & AI**
+- 🌱 Currently learning **AI Development & Machine Learining**
 - 💻 Building real-world projects
-- 🎨 Interested in **UI/UX Design**
+- 🎨 Interested in **AI Agents**
 - 🤝 Open to collaboration
 - 📫 Reach me: **your-vikashyadav8880001@gmail.com**
 
