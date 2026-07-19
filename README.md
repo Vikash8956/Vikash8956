@@ -61,14 +61,6 @@ me = Vikash Yadav()
 
 ---
 
-
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
