@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikash Yadav </h1>
-<h3 align="center">AI & Machine Learning | Deep Learning | Large Language model | NLP | AI Enthusiast</h3>
+<h3 align="center">AI & Machine Learning | Deep Learning | Large Language model | NLP |Computer Vision | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;AI+%26+Machine+Learning;Deep+Learning+Enthusiast;Large+Language+Models+(LLMs);Natural+Language+Processing+(NLP);Building+AI-Powered+Projects;AI+Enthusiast+%F0%9F%9A%80" />
@@ -8,12 +8,37 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **AI Development & Machine Learining**
-- 💻 Building real-world projects
-- 🎨 Interested in **AI Agents**
-- 🤝 Open to collaboration
-- 📫 Reach me: **your-vikashyadav8880001@gmail.com**
+class AI Agent Engineer:
 
+    def __init__(self):
+        self.name = "Vikash Yadav"
+        self.role = "AI & ML Engineer"
+        self.location = "🇮🇳 India" 
+
+        self.education = {
+           self.location = "Lucknow, India "
+           self.role = "B.Tech CSE (AI & ML) Student"
+           self.cgpa = "8.10/10"
+        }
+
+        self.skills = {
+            "Languages": [
+                "Python",
+                "C++",
+                "JavaScript"
+            ],
+
+            "AI/ML": [
+                "TensorFlow",
+                "PyTorch",
+                "Scikit-Learn",
+                "OpenCV",
+                "Hugging Face"
+            ],
+  def fun_fact(self):
+        return "I am building innovative AI projects 🚀"
+
+me = Vikash Yadav()
 ---
 
 ## 🛠️ Tech Stack
@@ -36,13 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ## 🔥 GitHub Streak
 
