@@ -128,9 +128,17 @@ me = AIAgentEngineer()
 
 ---
 
-<p align="center">
-⭐ Building the future with Artificial Intelligence 🚀
-</p>
+<div align="center">
+
+<img src="assets/ai-agent-banner.png" width="100%" />
+
+# 🚀 Building the Future with AI Agent Models
+
+### 🤖 Smarter Agents • Better Decisions • Brighter Tomorrow
+
+> **AI Agent Engineer | Machine Learning | LLMs | Computer Vision | Generative AI**
+
+</div>
  
 
 ⭐ Thanks for visiting my profile!
