@@ -5,20 +5,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;AI+%26+Machine+Learning;Deep+Learning+Enthusiast;Large+Language+Models+(LLMs);Natural+Language+Processing+(NLP);Building+AI-Powered+Projects;AI+Enthusiast+%F0%9F%9A%80" />
 </p>
 
+# 🚀 About Me
 
-## 🚀 About Me
-
-class AI Agent Engineer:
+```python
+class AIAgentEngineer:
 
     def __init__(self):
         self.name = "Vikash Yadav"
         self.role = "AI & ML Engineer"
-        self.location = "🇮🇳 India" 
+        self.location = "Lucknow, India 🇮🇳"
 
         self.education = {
-           self.location = "Lucknow, India "
-           self.role = "B.Tech CSE (AI & ML) Student"
-           self.cgpa = "8.10/10"
+            "Degree": "B.Tech CSE (AI & ML)",
+            "CGPA": "8.10 / 10"
         }
 
         self.skills = {
@@ -28,38 +27,52 @@ class AI Agent Engineer:
                 "JavaScript"
             ],
 
-            "AI/ML": [
+            "AI_ML": [
                 "TensorFlow",
                 "PyTorch",
                 "Scikit-Learn",
                 "OpenCV",
                 "Hugging Face"
-            ],
-  def fun_fact(self):
-        return "I am building innovative AI projects 🚀"
+            ]
+        }
 
-me = Vikash Yadav()
----
+    def fun_fact(self):
+        return "I build innovative AI projects 🚀"
 
-## 🛠️ Tech Stack
-
-### Languages
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+me = AIAgentEngineer()
+```
 
 ---
+
+# 🛰️ Tech Arsenal
+
+## 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript"/>
+</p>
+
+---
+
+## 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+---
+
+## 📚 Libraries
+
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLTK-154F7D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+</p>
 
 ## 🌐 Connect With Me
 
