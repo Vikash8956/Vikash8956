@@ -133,7 +133,12 @@ me = AIAgentEngineer()
 </h3>
 
 <p align="center">
-<b>Smarter Agents • Better Decisions • Brighter Tomorrow</b>
+  <b>
+    🤖 Smarter AI Agents &nbsp;•&nbsp;
+    ⚡ Better Decisions &nbsp;•&nbsp;
+    🚀 Building the Future with AI Agent Engineers &nbsp;•&nbsp;
+    🌍 Brighter Tomorrow
+  </b>
 </p>
  
 <p align="center">
