@@ -142,7 +142,7 @@ me = AIAgentEngineer()
 </p>
  
 <p align="center">
-  <img src="image_18.png" alt="AI Agent Models Banner" width="100%">
+  <img src="image_18.png" alt="AI Agent Models Banner" width="70%">
 </p>
 
 
