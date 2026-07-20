@@ -74,26 +74,71 @@ me = AIAgentEngineer()
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 </p>
 
-## 🌐 Connect With Me
+---
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+## 🌐 Web Development
 
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express"/>
 </p>
 
 ---
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Building the future with Artificial Intelligence 🚀
+</p>
+ 
 
 ⭐ Thanks for visiting my profile!
