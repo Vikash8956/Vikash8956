@@ -128,17 +128,17 @@ me = AIAgentEngineer()
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="assets/ai-agent-banner.png" alt="AI Agent Models Banner" width="100%">
+</p>
 
-<img src="assets/ai-agent-banner.png" width="100%" />
+<h3 align="center">
+🚀 Building the Future with AI Agent Models
+</h3>
 
-# 🚀 Building the Future with AI Agent Models
-
-### 🤖 Smarter Agents • Better Decisions • Brighter Tomorrow
-
-> **AI Agent Engineer | Machine Learning | LLMs | Computer Vision | Generative AI**
-
-</div>
+<p align="center">
+<b>Smarter Agents • Better Decisions • Brighter Tomorrow</b>
+</p>
  
 
 ⭐ Thanks for visiting my profile!
