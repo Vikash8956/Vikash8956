@@ -136,7 +136,7 @@ me = AIAgentEngineer()
   <b>
     🤖 Smarter AI Agents &nbsp;•&nbsp;
     ⚡ Better Decisions &nbsp;•&nbsp;
-    🚀 Building the Future with AI Agent Engineers &nbsp;•&nbsp;
+    🤖 Autonomous Agents
     🌍 Brighter Tomorrow
   </b>
 </p>
