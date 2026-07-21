@@ -5,42 +5,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;AI+%26+Machine+Learning;Deep+Learning+Enthusiast;Large+Language+Models+(LLMs);Natural+Language+Processing+(NLP);Building+AI-Powered+Projects;AI+Enthusiast+%F0%9F%9A%80" />
 </p>
 
-# 🚀 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-```python
-class AIAgentEngineer:
-
-    def __init__(self):
-        self.name = "Vikash Yadav"
-        self.role = "AI & ML Engineer"
-        self.location = "Lucknow, India 🇮🇳"
-
-        self.education = {
-            "Degree": "B.Tech CSE (AI & ML)",
-            "CGPA": "8.10 / 10"
-        }
-
-        self.skills = {
-            "Languages": [
-                "Python",
-                "C++",
-                "JavaScript"
-            ],
-
-            "AI_ML": [
-                "TensorFlow",
-                "PyTorch",
-                "Scikit-Learn",
-                "OpenCV",
-                "Hugging Face"
-            ]
-        }
-
-    def fun_fact(self):
-        return "I build innovative AI projects 🚀"
-
-me = AIAgentEngineer()
-```
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPOSITORY/main/images/image_15.png"
+    alt="About Me"
+    width="900"
+  />
+</p>
 
 ---
 
