@@ -4,23 +4,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;AI+%26+Machine+Learning;Deep+Learning+Enthusiast;Large+Language+Models+(LLMs);Natural+Language+Processing+(NLP);Building+AI-Powered+Projects;AI+Enthusiast+%F0%9F%9A%80" />
 </p>
+/p>
 
 <p align="center">
   <img
     src="image_15.png"
     alt="About Me"
-    width="500"
+    width="80%"
   />
 </p>
-
-.about-image {
-    width: 100%;
-    max-width: 1100px;   /* Increase this value */
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    border-radius: 10px;
-}
 ---
 
 # 🛰️ Tech Arsenal
