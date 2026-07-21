@@ -1,23 +1,8 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Vikash Yadav</h1>
+<h1 align="center">Hi 👋, I'm Vikash Yadav </h1>
+<h3 align="center">AI & Machine Learning | Deep Learning | Large Language model | NLP |Computer Vision | AI Enthusiast</h3>
 
-<h3 align="center">
-AI & Machine Learning | Deep Learning | Large Language Models | NLP | Computer Vision | AI Enthusiast
-</h3>
-
-<!-- Typing SVG -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=27&duration=2500&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+🚀;AI+%26+Machine+Learning+Engineer;Deep+Learning+Enthusiast;Large+Language+Models+(LLMs);Natural+Language+Processing+(NLP);Computer+Vision;Building+AI+Projects;Always+Learning+New+Things" />
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vikash8956&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
-<!-- Divider -->
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,100:00FFAA&section=footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;AI+%26+Machine+Learning;Deep+Learning+Enthusiast;Large+Language+Models+(LLMs);Natural+Language+Processing+(NLP);Building+AI-Powered+Projects;AI+Enthusiast+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
