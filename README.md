@@ -9,7 +9,7 @@
   <img
     src="image_15.png"
     alt="About Me"
-    width="900"
+    width="800"
   />
 </p>
 
