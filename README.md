@@ -13,6 +13,14 @@
   />
 </p>
 
+.about-image {
+    width: 100%;
+    max-width: 1100px;   /* Increase this value */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+}
 ---
 
 # 🛰️ Tech Arsenal
