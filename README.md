@@ -1,17 +1,24 @@
-<h1 align="center">Hi 👋, I'm Vikash Yadav</h1>
+<!-- Animated Heading -->
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00BFFF;">Vikash Yadav</span>
+</h1>
 
+<!-- Professional Tagline -->
 <h3 align="center">
-AI & Machine Learning | Deep Learning | Large Language Models | NLP | Computer Vision
+AI & Machine Learning | Deep Learning | Large Language model | NLP |Computer Vision | AI Enthusiast
 </h3>
 
+<!-- Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile;AI+Engineer;Machine+Learning;Deep+Learning;Computer+Vision;Building+AI+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=1000&height=60&lines=🚀+Welcome+to+My+GitHub+Profile;🤖+AI+%26+Machine+Learning+Engineer;🧠+Deep+Learning+Enthusiast;💬+Large+Language+Models+(LLMs);🌐+Natural+Language+Processing+(NLP);👁️+Computer+Vision+Projects;⚡+Building+Intelligent+AI+Solutions;🔥+Always+Learning+Something+New" />
 </p>
 
+<!-- Profile Views -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vikash8956&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Vikash8956&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+<!-- Divider -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header"/>
 </p>
