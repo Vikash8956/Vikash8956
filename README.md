@@ -1,11 +1,11 @@
 <!-- Animated Heading -->
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#00BFFF;">Vikash Yadav</span>
+  Hi 👋, I'm Vikash Yadav
 </h1>
 
 <!-- Professional Tagline -->
 <h3 align="center">
-AI & Machine Learning | Deep Learning | Large Language model | NLP |Computer Vision | AI Enthusiast
+AI & Machine Learning | Deep Learning | Large Language Models | NLP | Computer Vision | AI Enthusiast
 </h3>
 
 <!-- Typing Animation -->
