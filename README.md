@@ -13,10 +13,11 @@ AI & Machine Learning | Deep Learning | Large Language Models | NLP | Computer V
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=1000&height=60&lines=🚀+Welcome+to+My+GitHub+Profile;🤖+AI+%26+Machine+Learning+Engineer;🧠+Deep+Learning+Enthusiast;💬+Large+Language+Models+(LLMs);🌐+Natural+Language+Processing+(NLP);👁️+Computer+Vision+Projects;⚡+Building+Intelligent+AI+Solutions;🔥+Always+Learning+Something+New" />
 </p>
 
-<!-- Profile Views -->
+<!--
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vikash8956&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vikash8956&label=Profile%20Views&style=for-the-badge" />
 </p>
+-->
 
 <!-- Divider -->
 <p align="center">
