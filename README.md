@@ -15,7 +15,7 @@ AI & Machine Learning | Deep Learning | Large Language model | NLP |Computer Vis
 
 <!-- Profile Views -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vikash8956&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 <!-- Divider -->
