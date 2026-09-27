@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;%3C+%2F+%3E+Machine+Learning;Deep+Learning+Enthusiast;Large+Language+Models+(LLMs);Natural+Language+Processing+(NLP);Building+AI-Powered+Projects;AI+Enthusiast+%F0%9F%9A%80" " />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;Machine+Learning;Deep+Learning+Enthusiast;Large+Language+Models;Natural+Language+Processing;%3C+%2F+%3E" />
 </p>
 
 
