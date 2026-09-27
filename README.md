@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikash Yadav </h1>
 <h3 align="center">AI & Machine Learning | Deep Learning | Large Language model | NLP |Computer Vision | AI Enthusiast</h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;AI+%26+Machine+Learning;Deep+Learning+Enthusiast;Large+Language+Models+(LLMs);Natural+Language+Processing+(NLP);Building+AI-Powered+Projects;AI+Enthusiast+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=%3C+%2F+%3E+Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;%3C+%2F+%3E+AI+%26+Machine+Learning;%3C+%2F+%3E+Deep+Learning+Enthusiast;%3C+%2F+%3E+Large+Language+Models+(LLMs);%3C+%2F+%3E+Natural+Language+Processing+(NLP);%3C+%2F+%3E+Building+AI-Powered+Projects;%3C+%2F+%3E+AI+Enthusiast+%F0%9F%9A%80" />
 </p>
 
 
