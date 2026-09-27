@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./profileviews.png" alt="Profile Views" width="80%">
+  <img src="./profileviews.png" alt="Profile Views" width="100%">
 </p>
 
 <p align="center">
