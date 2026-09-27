@@ -11,12 +11,8 @@
 
 <br>
 <br>
-
-<!-- About Me -->
-<p align="center">
-  <img src="./about-me.png" alt="About Me" width="100%">
-</p>
-
+<br>
+<br>
 <p align="center">
   <img
     src="image_15.png"
