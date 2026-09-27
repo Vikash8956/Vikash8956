@@ -6,13 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="./profileviews-cropped.png" alt="Profile Views" width="100%">
-</p>
-
-<h2 align="center">
-  &lt; About Me /&gt;
-</h2>
-<p align="center">
   <img src="./profileviews.png" alt="Profile Views" width="100%">
 </p>
 
