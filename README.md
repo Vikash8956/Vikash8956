@@ -5,7 +5,7 @@ AI & Machine Learning | Deep Learning | Large Language Model | NLP | Computer Vi
 </h3>
 
 <p align="center">
-  <img src="./profileviews.png" alt="ProfileViews" />
+  <img src="./profileviews.png" alt="Profile Views">
 </p>
 
 <p align="center">
