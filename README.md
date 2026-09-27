@@ -1,13 +1,17 @@
-<!-- Profile Views -->
+<h1 align="center">Hi 👋, I'm Vikash Yadav</h1>
+
+<h3 align="center">
+  AI & Machine Learning | Deep Learning | Large Language Model | NLP | Computer Vision | AI Enthusiast
+</h3>
+
+<!-- Profile Screenshot -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="./profile-banner.png" alt="GitHub Profile Banner" width="100%">
 </p>
 
-<!-- Divider -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;AI+%26+Machine+Learning;Deep+Learning+Enthusiast;Large+Language+Models+(LLMs);Natural+Language+Processing+(NLP);Building+AI-Powered+Projects;AI+Enthusiast+%F0%9F%9A%80" />
 </p>
-
 
 
 
