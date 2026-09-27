@@ -7,8 +7,7 @@
 <p align="center">
   <img src="./profileviews.png" alt="Profile Views" width="80%">
 </p>
-<br>
-<br>
+
 <p align="center">
   <img
     src="image_15.png"
