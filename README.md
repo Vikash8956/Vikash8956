@@ -6,13 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="./profileviews-cropped.png" alt="Profile Views" width="95%">
+  <img src="./profileviews.png" alt="Profile Views" width="100%">
 </p>
 
-<br>
-<br>
-<br>
-<br>
 <p align="center">
   <img
     src="image_15.png"
